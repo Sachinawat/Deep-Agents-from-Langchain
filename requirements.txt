@@ -1,0 +1,1 @@
+pip install deepagents tavily-python
